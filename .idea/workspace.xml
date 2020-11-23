@@ -86,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606144902152</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="second commit">
+      <created>1606145015471</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1606145015471</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -106,10 +113,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="second commit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="424" y="7" key="CommitChangelistDialog2" timestamp="1606144901395">
+    <state x="424" y="7" key="CommitChangelistDialog2" timestamp="1606145014644">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="424" y="7" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1606144901395" />
+    <state x="424" y="7" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1606145014644" />
     <state x="549" y="154" key="FileChooserDialogImpl" timestamp="1606143852116">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
